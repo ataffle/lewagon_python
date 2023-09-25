@@ -1,0 +1,4 @@
+ipywidgets
+statsmodels
+plotly
+voila
